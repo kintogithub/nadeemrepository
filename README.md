@@ -1,4 +1,4 @@
-# Node samplesss
+# Node samplessse
 
 A sample node microservices block for [kintohub](http://kintohub.com)
 
